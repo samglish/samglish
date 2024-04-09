@@ -8,7 +8,7 @@ Expert NSE | Expert Cybersecurity | Software Dev | NDG LINUX AND NDG LINUX SERIE
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://web.facebook.com/profile.php?id=100007165625739">
-    <img src="https://www.iconfinder.com/icons/5365678/fb_facebook_facebook_logo_icon" />
+    <img src="https://logowik.com/facebook-new-2023-icon-logo-vector-60039.html" />
   </a>
   <a href="https://instagram.com/beidi_dina_samuel">
     <img src="https://skillicons.dev/icons?i=instagram" />
