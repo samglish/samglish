@@ -1,4 +1,10 @@
-### Hi there 👋
+### I'm BEIDI DINA SAMUEL, Cybersecurity and Open Source Enthusiast
+<p align="center">Expert NSE | Expert Cybersecurity | Mobile and web Dev | NDG LINUX AND NDG LINUX SERIES</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/beididinasamuel">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 <!--
 **samglish/samglish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
