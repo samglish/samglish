@@ -27,6 +27,11 @@
 | ![image description](https://github.com/samglish/samglish/blob/main/badge1.png) | ![image description](https://github.com/samglish/samglish/blob/main/baget3.png) |
 |---|---|
 
+### Technologies and Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,azure,bash,bootstrap,c,cs,cpp,cassandra,css,dart,debian,django,dotnet,eclipse,fastapi,firebase,flutter,fortran,git,github,go,haskell,html,idea,java,js,jenkins,jquery,kali,kotlin,latex,linux,md,matlab,maven,mongodb,mysql,nodejs,perl,php,postgres,pycharm,py,r,react,regex,sqlite,stackoverflow,symfony,tensorflow,visualstudio,vscode,markdown&perline=8" alt="Skill Icons">
+</a>
 
 <!--
 **samglish/samglish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
