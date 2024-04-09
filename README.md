@@ -1,7 +1,7 @@
-  ### I'm BEIDI DINA SAMUEL, Cybersecurity and Open Source Enthusiast
-Expert NSE | Expert Cybersecurity | Software Dev | NDG LINUX AND NDG LINUX SERIES
+<h2 align="center"> I'm BEIDI DINA SAMUEL, Cybersecurity and Open Source Enthusiast </h2>
+<h3 align="center">Expert NSE | Expert Cybersecurity | Software Dev | NDG LINUX AND NDG LINUX SERIES </h3>
 <div style="display: flex; justify-content: space-between;">
-<p align="center">
+<center>
   <a href="https://www.linkedin.com/in/beididinasamuel">
    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -14,8 +14,13 @@ Expert NSE | Expert Cybersecurity | Software Dev | NDG LINUX AND NDG LINUX SERIE
   <a href="https://instagram.com/beidi_dina_samuel">
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-</p>
+</center>
 </div>
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=samglish&row=1&theme=darkhub&margin-w=15&no-bg=true" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=samglish&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
+  </a>
+</p>
 
 
 
