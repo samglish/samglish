@@ -33,6 +33,16 @@
 | ![image description](https://github.com/samglish/samglish/blob/main/badge1.png) | ![image description](https://github.com/samglish/samglish/blob/main/baget3.png) |
 |---|---|
 
+## Github Stats 🔥
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baimamboukar&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="samglish" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=baimamboukar&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="samglish" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baimamboukar&show_icons=true&locale=en&theme=tokyonight" alt="baimamboukar" /></p>
+
+
+
 <!--
 **samglish/samglish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
