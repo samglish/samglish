@@ -33,7 +33,7 @@
 | ![image description](https://github.com/samglish/samglish/blob/main/badge1.png) | ![image description](https://github.com/samglish/samglish/blob/main/baget3.png) |
 |---|---|
 
-## Github Stats 🔥
+### Github Stats 🔥
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samglish&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="samglish" /></p>
 
