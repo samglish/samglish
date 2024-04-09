@@ -22,7 +22,7 @@
   </a>
 </p>
 
-## Badges and Creds
+# Badges
 
 | ![image description](https://github.com/samglish/samglish/blob/main/badge1.png) | ![image description](https://github.com/samglish/samglish/blob/main/baget3.png) |
 |---|---|
