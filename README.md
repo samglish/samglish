@@ -1,8 +1,17 @@
 ### I'm BEIDI DINA SAMUEL, Cybersecurity and Open Source Enthusiast
-Expert NSE | Expert Cybersecurity | Mobile and web Dev | NDG LINUX AND NDG LINUX SERIES
+Expert NSE | Expert Cybersecurity | Software Dev | NDG LINUX AND NDG LINUX SERIES
 <p align="center">
   <a href="https://www.linkedin.com/in/beididinasamuel">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/BeidiSamuel">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100007165625739">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="https://instagram.com/beidi_dina_samuel">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
