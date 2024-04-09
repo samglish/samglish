@@ -23,7 +23,7 @@
 </p>
 ## Badges and Creds
 
-| ![image description](https://github.com/samglish/samglish/blob/main/badge1.png) | ![image description](https://github.com/samglish/samglish/badge2.png) | ![image description](https://github.com/samglish/samglish/badge3.png) |
+| ![image description](https://github.com/samglish/samglish/blob/main/badge1.png) | ![image description](https://github.com/samglish/samglish/blob/main/baget3.png) | ![image description](https://github.com/samglish/samglish/blob/main/badge2.png) |
 |---|---|---|
 
 
