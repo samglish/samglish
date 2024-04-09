@@ -9,12 +9,11 @@ Expert NSE | Expert Cybersecurity | Software Dev | NDG LINUX AND NDG LINUX SERIE
    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://web.facebook.com/profile.php?id=100007165625739">
-       <img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+  <img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://instagram.com/beidi_dina_samuel">
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-
 </p>
 </div>
 
