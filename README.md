@@ -21,6 +21,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=samglish&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
   </a>
 </p>
+
 ## Badges and Creds
 
 | ![image description](https://github.com/samglish/samglish/blob/main/badge1.png) | ![image description](https://github.com/samglish/samglish/blob/main/baget3.png) | ![image description](https://github.com/samglish/samglish/blob/main/badge2.png) |
