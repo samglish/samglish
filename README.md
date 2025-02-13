@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/cameroon/samglish.svg)](https://user-badge.committers.top/cameroon/samglish)
+[![committers.top badge](https://user-badge.committers.top/cameroon/samglish.svg)](https://user-badge.committers.top/cameroon/samglish) : 237 🇨🇲
 
 <h2 align="center"> I'm BEIDI DINA SAMUEL, Cybersecurity and Open Source Enthusiast </h2>
 <h3 align="center">Expert NSE | Expert Cybersecurity | Software Dev | NDG LINUX AND NDG LINUX SERIES </h3>
