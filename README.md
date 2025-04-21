@@ -24,11 +24,85 @@
   </a>
 </p>
 
-### Technologies and Tools
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,aws,azure,bash,bootstrap,c,cs,cpp,cassandra,css,dart,debian,django,dotnet,eclipse,fastapi,firebase,flutter,fortran,git,github,go,haskell,html,idea,java,js,jenkins,jquery,kali,kotlin,latex,linux,md,matlab,maven,mongodb,mysql,nodejs,perl,php,postgres,pycharm,py,r,react,regex,sqlite,stackoverflow,symfony,tensorflow,visualstudio,vscode,markdown&perline=8" alt="Skill Icons">
-</a>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mui" width="65" height="65" alt="PostgreSQL" />
+      <br>MUI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="MySQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+      <img src="https://reactnative.dev/img/header_logo.svg"
+        width="65" height="65" alt="Git" />
+      <br>React_Native
+    </td>
+    <td align="center" width="96">
+      <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg"
+        width="65" height="65" alt="Git" />
+      <br>Flutter
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+        width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+  </tr>
+</table>
 
 ### Badges
 
