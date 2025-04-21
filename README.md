@@ -52,6 +52,8 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
+  </tr>
+<tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
@@ -88,7 +90,6 @@
       <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
       <br>MongoDB
     </td>
-  </tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
       <br>Nodejs
@@ -109,7 +110,6 @@
         width="65" height="65" alt="Git" />
       <br>Git
     </td>
-   
   </tr>
 </table>
 
