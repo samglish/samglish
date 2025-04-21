@@ -33,15 +33,15 @@
       <br>Github
     </td>
     <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
     <br>Java
     </td>
       <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65"/>
         <br>Mysql
     </td>
      <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65"  />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
        <br>Docker
     </td>
     <td align="center" width="96">
@@ -49,7 +49,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65"  />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
@@ -71,7 +71,7 @@
       <br>C#
     </td>
     <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" />
+     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
     <td align="center" width="96">
@@ -80,14 +80,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mui" width="65" height="65" alt="PostgreSQL" />
-      <br>MUI
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="MySQL" />
       <br>GraphQL
