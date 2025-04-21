@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h4 align="left" id="macropower-tech">Technologies and Tools</h4>
 
 <table align="center">
   <tr>
