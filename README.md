@@ -58,9 +58,9 @@
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
-      <img src="https://img.icons8.com/fluency/48/bash.png" alt="icon" width="65" height="65" />
-      <br>Bash
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
@@ -69,8 +69,8 @@
 <tr>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+      <img src="https://img.icons8.com/fluency/48/bash.png" alt="icon" width="65" height="65" />
+      <br>Bash
     </td>
     <td align="center" width="96">
      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
