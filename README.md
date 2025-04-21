@@ -119,10 +119,10 @@
 
 
 ### Github Stats 🔥
-
-<center><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samglish&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="samglish" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samglish&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="samglish" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samglish&show_icons=true&locale=en&theme=tokyonight" alt="samglish" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samglish&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="samglish" /></p></center>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samglish&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="samglish" /></p>
+  
 
 <!--
 **samglish/samglish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
