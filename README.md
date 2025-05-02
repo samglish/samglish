@@ -5,7 +5,7 @@
 <div style="display: flex; justify-content: space-between;">
 <p align="center">
    <a href="https://medium.com/@beidisamuel11">
- <img src="https://img.shields.io/badge/Medium-%23E4405F.svg?logo=Medium&logoColor=white" alt="Medium">
+ <img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white" alt="Medium">
   </a>
   <a href="https://www.linkedin.com/in/beididinasamuel">
    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
