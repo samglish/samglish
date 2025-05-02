@@ -4,6 +4,9 @@
 <h3 align="center">Expert NSE | Expert Cybersecurity | Software Dev | NDG LINUX AND NDG LINUX SERIES </h3>
 <div style="display: flex; justify-content: space-between;">
 <p align="center">
+   <a href="https://medium.com/@beidisamuel11">
+ <img src="https://img.shields.io/badge/Medium-%23E4405F.svg?logo=Medium&logoColor=white" alt="Medium">
+  </a>
   <a href="https://www.linkedin.com/in/beididinasamuel">
    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -11,7 +14,7 @@
    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
   </a>
    <a href="https://dev.to/samglish">
- <img src="https://img.shields.io/badge/DEV-%23000000.svg?logo=DevTo&logoColor=white" alt="Instagram">
+ <img src="https://img.shields.io/badge/DEV-%23000000.svg?logo=DevTo&logoColor=white" alt="DevTo">
   </a>
   <a href="https://web.facebook.com/profile.php?id=100007165625739">
   <img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
