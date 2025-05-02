@@ -13,14 +13,14 @@
   <a href="https://twitter.com/BeidiSamuel">
    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-   <a href="https://dev.to/samglish">
- <img src="https://img.shields.io/badge/DEV-%23000000.svg?logo=DevTo&logoColor=white" alt="DevTo">
-  </a>
   <a href="https://web.facebook.com/profile.php?id=100007165625739">
   <img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://instagram.com/beidi_dina_samuel">
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+    <a href="https://dev.to/samglish">
+ <img src="https://img.shields.io/badge/DEV Community-%23000000.svg?logo=DevTo&logoColor=white" alt="DevTo">
   </a>
 </p>
 </div>
