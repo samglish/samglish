@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://dev.to/samglish">
- <img src="https://img.shields.io/badge/DEV-%23E4405F.svg?logo=DevTo&logoColor=white" alt="Instagram">
+ <img src="https://img.shields.io/badge/DEV-%23000000.svg?logo=DevTo&logoColor=white" alt="Instagram">
   </a>
 </p>
 </div>
