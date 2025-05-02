@@ -20,7 +20,7 @@
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
     <a href="https://dev.to/samglish">
- <img src="https://img.shields.io/badge/DEV Community-%23000000.svg?logo=DevTo&logoColor=white" alt="DevTo">
+ <img src="https://img.shields.io/badge/DEV   -%23000000.svg?logo=DevTo&logoColor=white" alt="DevTo">
   </a>
 </p>
 </div>
