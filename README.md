@@ -20,11 +20,10 @@
  <img src="https://img.shields.io/badge/Instagram-%23D2008C.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
     <a href="https://dev.to/samglish">
- <img src="https://img.shields.io/badge/DEV Community -%23F07B3F.svg?logo=DevTo&logoColor=white" alt="DevTo">
+<img src="https://img.shields.io/badge/DEV%20Community-%23171717.svg?logo=DevTo&logoColor=white" alt="DevTo">
   </a>
     <a href="https://leetcode.com/u/samglish/">
 <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black" alt="LeetCode">
-
   </a>
 </p>
 </div>
