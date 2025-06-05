@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/BeidiSamuel">
-  <img src="https://img.shields.io/badge/X%20(ex--Twitter)-%23000000.svg?logo=X&logoColor=white" alt="X (ex-Twitter)">
+  <img src="https://img.shields.io/badge/(ex--Twitter)-%23000000.svg?logo=X&logoColor=white" alt="X (ex-Twitter)">
   </a>
   <a href="https://web.facebook.com/profile.php?id=100007165625739">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
