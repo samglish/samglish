@@ -1,6 +1,6 @@
 [![committers.top badge](https://user-badge.committers.top/cameroon/samglish.svg)](https://user-badge.committers.top/cameroon/samglish)
 
-<h2 align="center"> 👋 Hey! I’m BEIDI DINA SAMUEL — Cybersecurity enthusiast & Open Source lover. I’m all about building secure, open digital worlds. 🌐🔒</h2>
+<h2 align="center"> I’m BEIDI DINA SAMUEL — Cybersecurity enthusiast & Open Source lover. I’m all about building secure, open digital worlds. 🌐🔒</h2>
 <h3 align="center">Expert NSE | Expert Cybersecurity | Software Dev | NDG LINUX AND NDG LINUX SERIES </h3>
 <div style="display: flex; justify-content: space-between;">
 <p align="center">
