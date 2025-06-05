@@ -8,16 +8,16 @@
  <img src="https://img.shields.io/badge/Medium-%2300AB6C.svg?logo=Medium&logoColor=white" alt="Medium">
   </a>
   <a href="https://www.linkedin.com/in/beididinasamuel">
-   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/BeidiSamuel">
-   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
+  <img src="https://img.shields.io/badge/X%20(ex--Twitter)-%23000000.svg?logo=X&logoColor=white" alt="X (ex-Twitter)">
   </a>
   <a href="https://web.facebook.com/profile.php?id=100007165625739">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://instagram.com/beidi_dina_samuel">
- <img src="https://img.shields.io/badge/Instagram-%23D2008C.svg?logo=Instagram&logoColor=white" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
     <a href="https://dev.to/samglish">
 <img src="https://img.shields.io/badge/DEV%20Community-%23171717.svg?logo=DevTo&logoColor=white" alt="DevTo">
