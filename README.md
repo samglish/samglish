@@ -23,7 +23,8 @@
  <img src="https://img.shields.io/badge/DEV Community -%23F07B3F.svg?logo=DevTo&logoColor=white" alt="DevTo">
   </a>
     <a href="https://leetcode.com/u/samglish/">
- <img src="https://img.shields.io/badge/LeetCode-%2300AB6C.svg?logo=DevTo&logoColor=white" alt="DevTo">
+<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black" alt="LeetCode">
+
   </a>
 </p>
 </div>
