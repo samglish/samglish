@@ -1,7 +1,7 @@
 [![committers.top badge](https://user-badge.committers.top/cameroon/samglish.svg)](https://user-badge.committers.top/cameroon/samglish)
 
 <h2 align="center"> I’m BEIDI DINA SAMUEL — Cybersecurity enthusiast & Open Source lover. I’m all about building secure, open digital worlds. 🌐🔒</h2>
-<h3 align="center">Ph.D. Candidate in Computer Science</h3>
+<h3 align="center">Ph.D. Candidate in Information Technology</h3>
 <div style="display: flex; justify-content: space-between;">
 <p align="center">
    <a href="https://medium.com/@beidisamuel11">
