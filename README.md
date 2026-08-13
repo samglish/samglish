@@ -122,7 +122,7 @@
 
 ### Badges
 
-  
+  [![GitCric Player Card](https://www.gitcric.me/api/og?username=samglish)](https://www.gitcric.me/samglish)
 | ![image description](https://github.com/samglish/samglish/blob/main/badge1.png) | ![image description](https://github.com/samglish/samglish/blob/main/baget3.png) |
 |---|---|
 
