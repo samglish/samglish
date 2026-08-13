@@ -123,9 +123,6 @@
 ### Badges
 
   [![GitCric Player Card](https://www.gitcric.me/api/og?username=samglish)](https://www.gitcric.me/samglish)
-| ![image description](https://github.com/samglish/samglish/blob/main/badge1.png) | ![image description](https://github.com/samglish/samglish/blob/main/baget3.png) |
-|---|---|
-
 
 ### Github Stats 🔥
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samglish&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="samglish" /></p>
