@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/cameroon/samglish.svg)](https://user-badge.committers.top/nigeria/samglish)
+[![committers.top badge](https://user-badge.committers.top/nigeria/samglish.svg)](https://user-badge.committers.top/nigeria/samglish)
 
 <h2 align="center"> I’m BEIDI DINA SAMUEL — Cybersecurity enthusiast & Open Source lover. I’m all about building secure, open digital worlds. 🌐🔒</h2>
 <h3 align="center">Ph.D. Candidate in Computer Science | Graduate Assistant</h3>
